@@ -1,5 +1,6 @@
 PAINT 
 ---------------------
+![paint](https://github.com/user-attachments/assets/c5984a1e-c4bf-4eef-85de-bda705ee02c7)
 
 Author: Hong Joon CHOI, 20161472
 ITSC  : hjchoi@connect.ust.hk
